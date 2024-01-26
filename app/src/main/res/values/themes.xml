@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AttendanceCaptureAPP" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/mintgreen</item>
+        <item name="colorSecondary">@color/grey</item>
+        <item name="android:statusBarColor">@color/chocolate</item>
+    </style>
+
+    <style name="Theme.AttendanceCaptureAPP" parent="Base.Theme.AttendanceCaptureAPP" />
+</resources>
